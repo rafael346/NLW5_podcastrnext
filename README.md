@@ -1,7 +1,7 @@
 
-<h2> Site de podcast feito no NLW 5 da RocketSeat</h2>
 
-Podcastr é uma aplicação feita para ouvir podcasts desenvolvido no framework NextJS do React, essa aplicação foi feita durante o evento NLW# 5.
+
+Podcastr é uma aplicação feita para ouvir podcasts desenvolvido no framework NextJS do React.
 
 ## 🚀 Começando
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
